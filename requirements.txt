@@ -1,0 +1,4 @@
+streamlit
+watchdog
+folium
+streamlit_folium
